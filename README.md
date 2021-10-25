@@ -1,2 +1,2 @@
 # Minesweeper-v0.5
-A simplified version of the famous game Minesweeper in the console. (The first week of studying)
+After launch, you need to select the number of mines on the playing field. Then a field is displayed with all the numbers of cells open, near which there are mines. The game ends when all the cells where there are mines will have flags (*). 
